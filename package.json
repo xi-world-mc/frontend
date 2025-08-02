@@ -1,0 +1,17 @@
+{
+  "name": "xi-world-minecraft-server",
+  "version": "1.0.0",
+  "description": "Xi World Minecraft Server Website",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0 --port 3000",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  },
+  "keywords": ["minecraft", "server", "xi world", "習世界", "товарищеский сервер", "майнкрафт"],
+  "author": "MairwunNx (Pavel Erokhin) (Павел Ерохин) <personal@mairwunnx.com>",
+  "license": "POHUI"
+} 
